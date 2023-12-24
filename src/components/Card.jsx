@@ -9,7 +9,7 @@ export default function CardProject() {
       {projects.map((project) => (
         <Card
           key={project.id}
-          className="max-w-sm mt-8 md:mx-4"
+          className="max-w-sm mt-8 md:mx-4 transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110 duration-300"
           href={project.link}
           imgAlt="Meaningful alt text for an image that is not purely decorative"
           imgSrc={project.image}
