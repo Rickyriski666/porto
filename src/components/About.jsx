@@ -5,7 +5,7 @@ export default function About() {
         <div className="w-hero-width lg:w-full bg-background-hero rounded-tl-[50px] rounded-br-[50px] shadow-hero-shadow">
           <div className="flex flex-col lg:flex-row-reverse items-center justify-center p-8 ">
             <img
-              src="src\assets\HeroImage.svg"
+              src="./HeroImage.svg"
               alt=""
               className="lg:w-[400px] lg:h-[400px] "
             />
