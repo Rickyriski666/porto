@@ -10,6 +10,11 @@ const certificate = [
     title: 'Belajar Membuat Aplikasi Back-End untuk Pemula',
     link: 'https://www.dicoding.com/certificates/6RPN4EQ29X2M',
     image: 'src\\assets\\certificate\\backend.png'
+  },
+  {
+    id: 3,
+    title: 'HIGHEST ACHIEVERS in Harisenin Bootcamp',
+    image: 'src\\assets\\certificate\\harisenin.png'
   }
 ];
 
