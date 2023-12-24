@@ -11,11 +11,7 @@ export default function Contact() {
             href="mailto:rickyrizkiawan666@gmail.com"
           >
             <div className="m-2 p-2 bg-white rounded-md shadow-md flex flex-col items-center transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110 hover:bg-slate-200 duration-300">
-              <img
-                src="src\assets\contact\gmail.svg"
-                alt=""
-                className="w-[30px] h-[30px]"
-              />
+              <img src="./gmail.svg" alt="" className="w-[30px] h-[30px]" />
               <p className="text-center font-bold"></p>
             </div>
           </a>
@@ -25,11 +21,7 @@ export default function Contact() {
             href="https://github.com/Rickyriski666"
           >
             <div className="m-2 p-2 bg-white rounded-md shadow-md flex flex-col items-center transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110 hover:bg-slate-200 duration-300">
-              <img
-                src="src\assets\contact\Github.svg"
-                alt=""
-                className="w-[30px] h-[30px]"
-              />
+              <img src="./github.svg" alt="" className="w-[30px] h-[30px]" />
               <p className="text-center font-bold"></p>
             </div>
           </a>
@@ -40,11 +32,7 @@ export default function Contact() {
             href="https://www.linkedin.com/in/rickyriskiawan"
           >
             <div className="m-2 p-2 bg-white rounded-md shadow-md flex flex-col items-center transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110 hover:bg-slate-200 duration-300">
-              <img
-                src="src\assets\contact\Linkedin.svg"
-                alt=""
-                className="w-[30px] h-[30px]"
-              />
+              <img src="./linkedin.svg" alt="" className="w-[30px] h-[30px]" />
               <p className="text-center font-bold"></p>
             </div>
           </a>
@@ -55,11 +43,7 @@ export default function Contact() {
             href="https://www.instagram.com/rickyyrzki/"
           >
             <div className="m-2 p-2 bg-white rounded-md shadow-md flex flex-col items-center transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110 hover:bg-slate-200 duration-300">
-              <img
-                src="src\assets\contact\instagram.svg"
-                alt=""
-                className="w-[30px] h-[30px]"
-              />
+              <img src="./instagram.svg" alt="" className="w-[30px] h-[30px]" />
               <p className="text-center font-bold"></p>
             </div>
           </a>
