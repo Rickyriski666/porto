@@ -14,6 +14,14 @@ const projects = [
       'Expanse App is a simple application specifically designed to record your expenses. With Expanse App, you can easily record and track all your financial transactions regularly.',
     image: './expense-porto.png',
     link: 'https://expanses-app.vercel.app/'
+  },
+  {
+    id: 3,
+    title: 'BookRack App',
+    description:
+      'Book Rack App is an innovative application designed to help users efficiently manage and organize their book collections. With an intuitive and user-friendly interface, the app provides a delightful experience in arranging and exploring the literary world.',
+    image: './bookrack-porto.png',
+    link: 'https://bookracks.netlify.app/'
   }
 ];
 export default projects;
